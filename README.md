@@ -15,13 +15,14 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 With regards to changes I made, I basically converted the normal chatbot to a "RudeBot". The line of questioning goes as follows:
 1. What is your name? Response: That's an ugly name.
 2. What is your age? Response: Calculate how many years from 100 you have left.
-3. How old do you think I am (chatbot): Regardless of answer say: Younger than you!
-4. What's your favorite color? : If it isn't red, ignore their response and change the screen to red anyway. If red then complement their taste.
-5. Who's the farest one of all? : If it isn't Ben, give them a message saying you're wrong. If Ben, say perfect! 
+3. How old do you think I am (chatbot)? Response: Regardless of answer say: Younger than you!
+4. What's your favorite color? Response: If it isn't red, ignore their response and change the screen to red anyway. If red then complement their taste.
+5. Who's the farest one of all? Response: If it isn't Ben, give them a message saying you're wrong. If Ben, say perfect! 
 
 ## Record someone trying out your ChatBot
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
+
 [Video Demo](https://youtu.be/FY1Wo4xX16k)
 
 
